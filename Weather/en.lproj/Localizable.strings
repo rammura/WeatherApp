@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Rambabu Murakonda on 8/21/24.
+  
+*/
+
+"weather.search.input.label" = "Search by City, Country";
+"weather.result.humidity" = "Humidity";
+"weather.result.dewpoint" = "Dew point";
+"weather.result.visibility" = "Visibility";
+"weather.result.temp" = "Temperature";
+"weather.result.temp.feelslike" = "Feels like";
+"weather.result.temp.min" = "Min";
+"weather.result.temp.max" = "Max";
